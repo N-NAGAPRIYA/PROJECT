@@ -1,0 +1,12 @@
+Enter the theme for the application: dark
+Enter the volume level (0-100): 45
+Current Settings:
+Theme: dark
+Volume: 45
+
+
+Enter the theme for the application: light
+Enter the volume level (0-100): 89
+Current Settings:
+Theme: light
+Volume: 89

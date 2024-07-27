@@ -1,0 +1,5 @@
+Enter the text: welcome
+Do you want to add bold formatting? (yes/no): yes
+Do you want to add italic formatting? (yes/no): yes
+Do you want to add underline formatting? (yes/no): yes
+Formatted text: __***welcome***__

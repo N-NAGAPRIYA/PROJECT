@@ -1,0 +1,14 @@
+Enter pizza size (e.g., Small, Medium, Large): small
+Enter crust type (e.g., Thin, Thick): thin
+Enter a topping (or type 'done' to finish): potato
+Enter a topping (or type 'done' to finish): done
+Your Pizza Configuration:
+Pizza [Size=small, CrustType=thin, Toppings=potato]
+
+
+Enter pizza size (e.g., Small, Medium, Large): large
+Enter crust type (e.g., Thin, Thick): thick
+Enter a topping (or type 'done' to finish): capers
+Enter a topping (or type 'done' to finish): done
+Your Pizza Configuration:
+Pizza [Size=large, CrustType=thick, Toppings=capers]

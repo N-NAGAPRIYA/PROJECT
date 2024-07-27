@@ -1,0 +1,13 @@
+Enter the name of the root classroom: A1
+Do you want to add a student or a classroom? (student/classroom/none): student
+Enter the name of the student: Priya
+Do you want to add a student or a classroom? (student/classroom/none): student
+Enter the name of the student: Ravi
+Do you want to add a student or a classroom? (student/classroom/none): classroom
+Enter the name of the new classroom: CSE
+Do you want to add a student or a classroom? (student/classroom/none): none
+School Structure:
+Classroom: A1
+Student: Priya
+Student: Ravi
+Classroom: CSE

@@ -1,0 +1,16 @@
+Available travel strategies:
+- car
+- public transport
+- bike
+Enter the travel strategy (car, bike, public transport): car
+Enter the distance to travel (in km): 89
+Travel time by car: 1.48 hours
+
+
+Available travel strategies:
+- car
+- public transport
+- bike
+Enter the travel strategy (car, bike, public transport): bike
+Enter the distance to travel (in km): 45
+Travel time by bike: 2.25 hours
