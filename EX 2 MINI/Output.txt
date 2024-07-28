@@ -1,0 +1,17 @@
+Rocket Launch Simulator
+Enter command: start_checks
+All systems are 'Go' for launch.
+Enter command: launch
+Stage: Stage 1, Fuel: 90%, Altitude: 10 km, Speed: 1000 km/h
+Stage: Stage 1, Fuel: 80%, Altitude: 20 km, Speed: 2000 km/h
+Stage: Stage 1, Fuel: 70%, Altitude: 30 km, Speed: 3000 km/h
+Stage 1 complete. Separating stage. Entering Stage 2.
+Stage: Stage 2, Fuel: 50%, Altitude: 40 km, Speed: 4000 km/h
+Stage: Stage 2, Fuel: 40%, Altitude: 50 km, Speed: 5000 km/h
+Stage: Stage 2, Fuel: 30%, Altitude: 60 km, Speed: 6000 km/h
+Stage: Stage 2, Fuel: 20%, Altitude: 70 km, Speed: 7000 km/h
+Stage: Stage 2, Fuel: 10%, Altitude: 80 km, Speed: 8000 km/h
+Orbit achieved! Mission Successful.
+Enter command: fast_forward 2
+Stage: Stage 2, Fuel: 0%, Altitude: 90 km, Speed: 9000 km/h
+Mission Failed due to insufficient fuel.
